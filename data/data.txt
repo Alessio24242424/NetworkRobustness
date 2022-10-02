@@ -1,4 +1,5 @@
-Two files:
+three files:
 
-FOLK1A - for death probabilities
+FOLK1A - for age probabilities
 birth_rate - for birth rates
+lifeTable - for death probabilities
