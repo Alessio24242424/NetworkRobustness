@@ -1,0 +1,4 @@
+Two files:
+
+FOLK1A - for death probabilities
+birth_rate - for birth rates
